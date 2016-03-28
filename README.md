@@ -1,3 +1,5 @@
+//Added a comment in README file
+
 Chess Crafter
 =====
 A Java application which allows users to design variants on chess, specifying new kinds of pieces and how they move, the board layout, the initial positions of pieces, how the game is won, and special rules.
